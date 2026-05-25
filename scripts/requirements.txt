@@ -1,0 +1,8 @@
+# ─── LLM providers
+google-genai>=1.0.0
+
+# ─── Core
+feedparser>=6.0.10
+requests>=2.31.0
+python-dotenv>=1.0.0
+opencc-python-reimplemented>=0.1.7
