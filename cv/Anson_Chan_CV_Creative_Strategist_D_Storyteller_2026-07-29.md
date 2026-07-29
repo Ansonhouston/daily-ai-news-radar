@@ -1,7 +1,9 @@
 # ANSON CHAN
 ## Creative Strategist — Storytelling & Community
 
-+852 9298 1110 | ai@digitalanson.com | digitalanson.com | youtube.com/@aieasyjob | IG @aieasyjob | FB: AI 係咁易
++852 9298 1110 | ansonchanai@outlook.com | digitalanson.com | youtube.com/@aieasyjob | IG @aieasyjob | FB: AI 係咁易
+
+**Expected salary:** USD $3,500 per month
 
 ---
 
