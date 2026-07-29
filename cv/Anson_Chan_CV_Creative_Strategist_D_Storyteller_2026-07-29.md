@@ -3,8 +3,6 @@
 
 +852 9298 1110 | ansonchanai@outlook.com | digitalanson.com | youtube.com/@aieasyjob | IG @aieasyjob | FB: AI 係咁易
 
-**Expected salary:** USD $3,500 per month
-
 ---
 
 ## PROFESSIONAL SUMMARY
