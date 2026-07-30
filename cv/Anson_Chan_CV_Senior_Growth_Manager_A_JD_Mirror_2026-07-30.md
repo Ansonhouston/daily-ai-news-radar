@@ -3,7 +3,7 @@
 
 +852 9298 1110 | ansonchanai@outlook.com | digitalanson.com | youtube.com/@aieasyjob | IG @aieasyjob
 
-**Expected salary:** HK$48,000 per month
+**Expected salary:** HK$55,000 per month
 
 ---
 

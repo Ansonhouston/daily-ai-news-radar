@@ -27,7 +27,7 @@ I test that pipeline on my own channels, where there is no media budget to hide 
 
 I have not worked inside insurance, and I would rather say that than pretend the regulatory learning curve does not exist. What does transfer is the shape of the business: a renewal-driven model rewards exactly the acquisition-and-retention thinking I have run as one system, including a 30,000-subscriber Klaviyo programme with welcome, abandoned-cart, post-purchase and win-back automation.
 
-My expected salary is **HK$48,000 per month**. I am Hong Kong-based, fluent in Cantonese, English and Mandarin, and available at short notice.
+My expected salary is **HK$55,000 per month**. I am Hong Kong-based, fluent in Cantonese, English and Mandarin, and available at short notice.
 
 I would welcome the chance to discuss where your acquisition costs are least efficient today, and what I would test first.
 
