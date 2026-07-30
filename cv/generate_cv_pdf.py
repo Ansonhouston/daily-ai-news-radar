@@ -149,6 +149,8 @@ def build(md_path, pdf_path):
     print(f'wrote {os.path.basename(pdf_path)} — {pages} pages')
 
 if __name__ == '__main__':
-    cvdir = '/home/user/daily-ai-news-radar/cv'
-    for md in sorted(glob.glob(cvdir + '/*.md')):
+    targets = sys.argv[1:]
+    if not targets:
+        targets = sorted(glob.glob('/home/user/daily-ai-news-radar/cv/*.md'))
+    for md in targets:
         build(md, md[:-3] + '.pdf')
