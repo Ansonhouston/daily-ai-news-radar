@@ -6,7 +6,7 @@ from reportlab.lib.units import mm
 from reportlab.lib.colors import HexColor, white
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib.enums import TA_CENTER
-from reportlab.platypus import (SimpleDocTemplate, Paragraph, Spacer,
+from reportlab.platypus import (SimpleDocTemplate, Paragraph, Spacer, PageBreak,
                                 HRFlowable, Table, TableStyle)
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
@@ -131,6 +131,8 @@ def build(md_path, pdf_path):
             hdr = [Paragraph(f'<font color="white"><b>{md_inline(c.text if hasattr(c,"text") else "")}</b></font>', styles['body']) for c in rows[0]]
             story.append(t)
             story.append(Spacer(1, 3))
+        elif ln == '---PAGEBREAK---':
+            story.append(PageBreak())
         elif ln.startswith('- '):
             story.append(Paragraph(md_inline(ln[2:]), styles['bullet'], bulletText='•'))
         elif ln.startswith('*') and ln.endswith('*') and not ln.startswith('**'):
