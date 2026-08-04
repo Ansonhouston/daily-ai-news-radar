@@ -9,9 +9,9 @@
 
 AI-native Creative Strategist who runs generative AI as production infrastructure, not as a novelty. 7+ years in creative and performance marketing for consumer and DTC brands (HK$3M+ managed spend at 3–10x ROAS), now operating an end-to-end AI creative pipeline: Claude for scripting, briefs and multi-step workflow automation; Midjourney, Ideogram and Seedance 2.0 for visual and video production; automated carousel generation; and AI-assisted variant production at 10+ creatives per testing cycle.
 
-Introduced generative AI into commercial creative production in **2022** — roughly two years ahead of industry adoption — cutting A/B testing cycles by 50% and production cost materially at Hong Kong's #1 baby e-commerce platform. Now builds custom Claude skills and multi-agent pipelines that let a solo operator sustain a weekly multi-platform publishing cadence at agency-level output quality.
+Introduced generative AI into commercial creative production in **2022** — roughly two years ahead of industry adoption — cutting A/B testing cycles by 50% and production cost materially at Hong Kong's #1 baby e-commerce platform. Now builds custom Claude skills and multi-agent pipelines that let a solo operator sustain a multi-platform publishing cadence at agency-level output quality.
 
-The pipeline is proven on live distribution, not in a sandbox: @aieasyjob produced a **76,000-view organic Facebook Reel from a 77-follower page** — approximately 990x follower count and 210x channel median, with zero paid support — plus 84,000+ YouTube views across 57 videos. AI accelerates the output; the creative judgment and testing discipline are what make it convert.
+The pipeline is proven on live distribution, not in a sandbox: @aieasyjob produced a **76,000-view organic Facebook Reel from a 77-follower page** — approximately 990x follower count and 210x channel median, with zero paid support — plus 87,500+ YouTube views across 58 videos. AI accelerates the output; the creative judgment and testing discipline are what make it convert.
 
 Trilingual: Cantonese (native), English (fluent), Mandarin (fluent). Available for remote, Hong Kong-based.
 
@@ -54,8 +54,8 @@ Trilingual: Cantonese (native), English (fluent), Mandarin (fluent). Available f
 | Facebook | Second Reel above 10K | 11,000 views |
 | Facebook | Outlier ratio vs channel median | ~210x |
 | Facebook | Views vs 77-follower base | ~990x |
-| YouTube (@aieasyjob) | Cumulative views / videos | 84,000+ / 57 |
-| YouTube | Videos published, trailing 30 days | 7 |
+| YouTube (@aieasyjob) | Cumulative views / videos | 87,500+ / 58 |
+| YouTube | Videos published, trailing 30 days | 8 |
 | Production model | Team size | Solo operator, AI-augmented |
 | Paid amplification | Spend | None — fully organic |
 
@@ -93,7 +93,7 @@ Customer personas & journey-stage content · UGC frameworks & creator briefing �
 
 **Action.** Designed an end-to-end AI pipeline: Claude for scripting and structural editing, Midjourney and Ideogram for visuals, Seedance 2.0 for AI video, CapCut for assembly, and reusable templates with QC checklists governing the whole chain. Built an automated carousel generation system with image-matching logic to remove the design bottleneck entirely.
 
-**Result.** Sustained weekly output across YouTube long-form and Shorts, Instagram Reels and carousels, and Facebook Reels as a single operator — 57 YouTube videos and 84,000+ views, with 7 videos published in the trailing 30 days. Scripting time cut ~60%.
+**Result.** Sustained output across YouTube long-form and Shorts, Instagram Reels and carousels, and Facebook Reels as a single operator — 58 YouTube videos and 87,500+ views, with 8 videos published in the trailing 30 days. Scripting time cut ~60%.
 
 ### 3. AI Variant Production Driving +200% Conversion Rate
 
@@ -118,7 +118,7 @@ Customer personas & journey-stage content · UGC frameworks & creator briefing �
 ### Founder & Creative Operator — @aieasyjob (YouTube · Instagram · Facebook)
 *2024 – Present | Hong Kong (Global Audience)*
 
-- Designed and operate an end-to-end AI production pipeline enabling a solo operator to sustain weekly multi-platform output — 57 YouTube videos, 84,000+ cumulative views, plus Instagram and Facebook Reels.
+- Designed and operate an end-to-end AI production pipeline enabling a solo operator to sustain multi-platform output at volume — 58 YouTube videos, 87,500+ cumulative views, plus Instagram and Facebook Reels.
 - Produced a 76,000-view organic Facebook Reel from a 77-follower base (~990x follower count, ~210x channel median), plus a second Reel at 11,000 views, with zero paid support.
 - Built an automated carousel generation system with image-matching logic and enforced design standards — removing the design bottleneck for visual content at scale.
 - Built custom Claude skills and multi-step pipelines for recurring creative operations — research, scripting, cross-platform repurposing, competitor monitoring.
@@ -161,7 +161,7 @@ Customer personas & journey-stage content · UGC frameworks & creator briefing �
 | Asset | Link | What it demonstrates |
 |---|---|---|
 | Portfolio site | digitalanson.com | Positioning, messaging and landing page copy |
-| YouTube | youtube.com/@aieasyjob | AI-produced long-form and Shorts — 84,000+ views / 57 videos |
+| YouTube | youtube.com/@aieasyjob | AI-produced long-form and Shorts — 87,500+ views / 58 videos |
 | Instagram | @aieasyjob | AI-generated carousel pipeline output and Reels hook design |
 | Facebook | AI 係咁易 | 76,000-view organic Reel — AI-assisted hook structure at ~990x follower count |
 

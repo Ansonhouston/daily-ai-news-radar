@@ -9,7 +9,7 @@
 
 Performance marketer with 8 years running paid and organic growth against revenue targets — **HK$3M+ cumulative ad spend at 3–10x ROAS**, peaking at **HK$500K+/month** at Hong Kong's #1 baby e-commerce platform. I am hired when someone needs a budget to produce attributable revenue, and I report against pipeline rather than impressions.
 
-Alongside that I built **@aieasyjob**, a Cantonese AI education brand, from zero to 84,000+ YouTube views and a 76,000-view organic Facebook Reel from a 77-follower page — proof that I can generate demand with no budget as well as spend one well.
+Alongside that I built **@aieasyjob**, a Cantonese AI education brand, from zero to 87,500+ YouTube views and a 76,000-view organic Facebook Reel from a 77-follower page — proof that I can generate demand with no budget as well as spend one well.
 
 Trilingual: **Cantonese (native)**, English (fluent), Mandarin (fluent). Hong Kong–based.
 
@@ -61,7 +61,7 @@ Built an AI-assisted variant production pipeline raising output to **10+ creativ
 Managed cumulative spend across retail, lifestyle and F&B at consistent **3–7x ROAS**, adapting funnel architecture and messaging to each brand's audience and sales cycle.
 
 ### Demand generated with no budget at all
-**@aieasyjob** — 84,000+ YouTube views / 57 videos. A **76,000-view organic Facebook Reel from a 77-follower page** (~990x follower count, ~210x channel median), zero paid support; a second at 11,000 confirming structure over luck. Converted into B2B consulting enquiries at HK$13,800/month packages.
+**@aieasyjob** — 87,500+ YouTube views / 58 videos. A **76,000-view organic Facebook Reel from a 77-follower page** (~990x follower count, ~210x channel median), zero paid support; a second at 11,000 confirming structure over luck. Converted into B2B consulting enquiries at HK$13,800/month packages.
 
 ---
 
@@ -96,9 +96,9 @@ I am flagging it rather than papering over it, because the transferable half is 
 
 ### Founder & Growth Operator — @aieasyjob
 *2024 – Present | Hong Kong*
-- Built a Cantonese AI education brand from zero, solo, across YouTube, Instagram and Facebook on a sustained weekly cadence.
-- 84,000+ YouTube views / 57 videos; 76,000-view organic Facebook Reel from a 77-follower base; second Reel at 11,000.
-- Ran the channel as a live testing lab — weekly hypothesis-driven tests scored against native retention and thumb-stop data, compounded into a documented playbook.
+- Built a Cantonese AI education brand from zero, solo, across YouTube, Instagram and Facebook on a sustained publishing cadence.
+- 87,500+ YouTube views / 58 videos; 76,000-view organic Facebook Reel from a 77-follower base; second Reel at 11,000.
+- Ran the channel as a live testing lab — hypothesis-driven tests scored against native retention and thumb-stop data, compounded into a documented playbook.
 - Built an AI production pipeline cutting scripting time ~60% and enabling same-day concept-to-publish.
 - Converted organic audience into B2B consulting revenue at HK$13,800/month packages.
 

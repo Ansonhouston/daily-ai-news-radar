@@ -9,7 +9,7 @@
 
 Creative Strategist with 7+ years driving creative strategy and content performance across paid and organic channels for consumer and DTC brands in Hong Kong and Southeast Asia. Combines storytelling and creative direction with disciplined performance analysis — HK$3M+ cumulative ad spend managed at 3–10x ROAS, including HK$500K+/month at Hong Kong's #1 baby e-commerce platform during a high-growth scaling phase.
 
-Operates @aieasyjob, a self-built multi-platform content brand (YouTube, Instagram, Facebook) that functions as a live creative testing lab: 76,000 organic views on a single Facebook Reel from a 77-follower page — roughly 990x follower count and 210x channel median — achieved with zero paid support, purely through hook construction and thumb-stop design. Two Reels have passed 10,000 views, and the YouTube channel has accumulated 84,000+ views across 57 videos.
+Operates @aieasyjob, a self-built multi-platform content brand (YouTube, Instagram, Facebook) that functions as a live creative testing lab: 76,000 organic views on a single Facebook Reel from a 77-follower page — roughly 990x follower count and 210x channel median — achieved with zero paid support, purely through hook construction and thumb-stop design. Two Reels have passed 10,000 views, and the YouTube channel has accumulated 87,500+ views across 58 videos.
 
 Daily AI-powered creative workflows (Claude, ChatGPT, Gemini, Midjourney) cut scripting and production cycles by 50–60% and enable 10+ creative variants per testing cycle. Introduced generative AI into commercial creative production in 2022, roughly two years ahead of industry adoption.
 
@@ -90,8 +90,8 @@ Meta Ads (prospecting + retargeting) · Google Ads (Search, Shopping, Performanc
 |---|---|---|
 | Facebook (AI 係咁易) | Top Reel, organic (77-follower base) | 76,000 views — ~210x median, ~990x followers |
 | Facebook | Second Reel above 10K | 11,000 views |
-| YouTube (@aieasyjob) | Cumulative views / videos | 84,000+ / 57 |
-| YouTube | Views added / videos published, trailing 30 days | 6,700+ / 7 |
+| YouTube (@aieasyjob) | Cumulative views / videos | 87,500+ / 58 |
+| YouTube | Views added / videos published, trailing 30 days | 9,300+ / 8 |
 | All channels | Paid amplification | None — fully organic |
 
 ---
@@ -101,10 +101,10 @@ Meta Ads (prospecting + retargeting) · Google Ads (Search, Shopping, Performanc
 ### Founder & Creative Operator — @aieasyjob (YouTube · Instagram · Facebook)
 *2024 – Present | Hong Kong (Global Audience)*
 
-- Built a multi-platform content engine from zero as a solo operator with full end-to-end ownership — concept, script, shoot, edit, publish — across YouTube long-form and Shorts, Instagram Reels and carousels, and Facebook Reels, on a sustained weekly cadence.
+- Built a multi-platform content engine from zero as a solo operator with full end-to-end ownership — concept, script, shoot, edit, publish — across YouTube long-form and Shorts, Instagram Reels and carousels, and Facebook Reels, on a sustained publishing cadence.
 - Produced a 76,000-view organic Facebook Reel from a 77-follower base (~990x follower count, ~210x channel median) and a second Reel at 11,000 views, with zero paid support — demonstrating hook and thumb-stop competence under the hardest possible distribution conditions.
-- Accumulated 84,000+ YouTube views across 57 videos, publishing 7 videos in the trailing 30 days while maintaining creative quality at volume.
-- Run the channel as a live creative testing lab — weekly hypothesis-driven tests on hooks, thumbnails, formats and captions, scored against native retention and thumb-stop analytics, compounding results into a documented creative playbook.
+- Accumulated 87,500+ YouTube views across 58 videos, publishing 8 videos in the trailing 30 days while maintaining creative quality at volume.
+- Run the channel as a live creative testing lab — hypothesis-driven tests on hooks, thumbnails, formats and captions, scored against native retention and thumb-stop analytics, compounding results into a documented creative playbook.
 - Engineered an AI production pipeline (Claude, ChatGPT, Gemini, Midjourney) with reusable prompt templates and automated QC checklists — cutting scripting time ~60% and enabling same-day concept-to-publish turnaround.
 - Built a carousel automation system with image-matching logic and enforced design standards, producing on-brand visual assets at scale without a designer.
 - Converted audience trust into revenue — B2B consulting enquiries and client proposals at HK$13,800/month packages sourced directly from organic content, proving a content-to-qualified-lead pipeline.
@@ -159,7 +159,7 @@ Meta Ads (prospecting + retargeting) · Google Ads (Search, Shopping, Performanc
 | Asset | Link | What it demonstrates |
 |---|---|---|
 | Portfolio site | digitalanson.com | Positioning, messaging and landing page copy |
-| YouTube | youtube.com/@aieasyjob | Long-form scripting, thumbnail and title testing — 84,000+ views / 57 videos |
+| YouTube | youtube.com/@aieasyjob | Long-form scripting, thumbnail and title testing — 87,500+ views / 58 videos |
 | Instagram | @aieasyjob | Reels hook design and carousel narrative sequencing |
 | Facebook | AI 係咁易 | 76,000-view organic Reel — hook and thumb-stop proof at ~990x follower count |
 

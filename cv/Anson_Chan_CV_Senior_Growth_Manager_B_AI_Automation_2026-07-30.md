@@ -13,7 +13,7 @@ Growth marketing leader who runs AI and automation as operating infrastructure, 
 
 Introduced generative AI into commercial marketing production in **2022** — roughly two years ahead of industry adoption — cutting A/B testing cycles 50% and production cost materially. Now builds **custom Claude skills and multi-step automation pipelines** covering scripting, creative briefs, competitor research, asset production and cross-platform repurposing, plus automated analytics and reporting workflows.
 
-The efficiency gain is measurable, not theoretical: **10+ creative variants per testing cycle** instead of two, held inside single-variable discipline so attribution survives the throughput — delivering **+200% conversion rate** and cycle time cut ~50%. On owned channels the same pipeline let one person sustain weekly multi-platform output and produce a **76,000-view organic Facebook Reel from a 77-follower page (~990x follower count)** with zero paid spend.
+The efficiency gain is measurable, not theoretical: **10+ creative variants per testing cycle** instead of two, held inside single-variable discipline so attribution survives the throughput — delivering **+200% conversion rate** and cycle time cut ~50%. On owned channels the same pipeline let one person sustain multi-platform output at volume and produce a **76,000-view organic Facebook Reel from a 77-follower page (~990x follower count)** with zero paid spend.
 
 **Led a team of three** (two designers, one marketing executive) plus agency partners. Trilingual: Cantonese (native), English (fluent), Mandarin (fluent). Hong Kong-based, available for hybrid.
 
@@ -89,7 +89,7 @@ The efficiency gain is measurable, not theoretical: **10+ creative variants per 
 
 **Action.** Designed an end-to-end pipeline: custom Claude skills for scripting, briefs and competitor teardowns; Midjourney and Ideogram for visuals; automated carousel generation with image-matching logic and enforced design standards; reusable templates with QC checklists governing the whole chain.
 
-**Result.** Sustained weekly output across YouTube, Instagram and Facebook as one person — **76,000-view organic Facebook Reel from a 77-follower page (~990x follower count, ~210x channel median)** with zero paid support, a second Reel at 11,000 views confirming it was structural, and **84,000+ YouTube views across 57 videos**. Scripting time cut ~60%.
+**Result.** Sustained output across YouTube, Instagram and Facebook as one person — **76,000-view organic Facebook Reel from a 77-follower page (~990x follower count, ~210x channel median)** with zero paid support, a second Reel at 11,000 views confirming it was structural, and **87,500+ YouTube views across 58 videos**. Scripting time cut ~60%.
 
 ### 4. Paid Acquisition Turnaround — ROAS 0.3x to 3x in 90 Days
 
@@ -127,11 +127,11 @@ The efficiency gain is measurable, not theoretical: **10+ creative variants per 
 ### Founder & Growth Operator — @aieasyjob (YouTube · Instagram · Facebook)
 *2024 – Present | Hong Kong*
 
-- Designed and operate an end-to-end AI production pipeline enabling one person to sustain weekly multi-platform output — the working proof of the automation approach.
+- Designed and operate an end-to-end AI production pipeline enabling one person to sustain multi-platform output at volume — the working proof of the automation approach.
 - Produced a **76,000-view organic Facebook Reel from a 77-follower base** (~990x follower count) plus a second Reel at 11,000 views, zero paid support.
 - Built custom Claude skills and multi-step pipelines for recurring growth operations — research, briefs, copy production, cross-platform repurposing.
 - Built an automated carousel generation system with image-matching logic and enforced design standards.
-- **84,000+ YouTube views across 57 videos**; weekly hypothesis-driven testing against native analytics.
+- **87,500+ YouTube views across 58 videos**; weekly hypothesis-driven testing against native analytics.
 - Converted organic content into B2B consulting revenue at HK$13,800/month.
 
 ### Freelance Digital Marketing Consultant

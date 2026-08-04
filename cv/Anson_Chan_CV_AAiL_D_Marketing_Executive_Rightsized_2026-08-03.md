@@ -11,7 +11,7 @@
 
 I want to say this plainly at the top, because on paper I look senior for this posting and I would rather you hear my reasoning than guess at it.
 
-I have eight years in digital and performance marketing, most recently managing e-commerce growth budgets. For the past two years I have also run **@aieasyjob**, my own Cantonese-language AI education channel — 57 videos, 84,000+ YouTube views. Somewhere in that period the side project stopped being a side project. Explaining AI to people who did not ask for it turned out to be the work I actually want to do.
+I have eight years in digital and performance marketing, most recently managing e-commerce growth budgets. For the past two years I have also run **@aieasyjob**, my own Cantonese-language AI education channel — 58 videos, 87,500+ YouTube views. Somewhere in that period the side project stopped being a side project. Explaining AI to people who did not ask for it turned out to be the work I actually want to do.
 
 AI education is a category I want to be inside, not adjacent to. This role is hands-on across exactly the mix I want to be executing every day — content, social, campaigns, analytics, competitor research — at a company that has real distribution into Hong Kong schools. I am not looking for a title. I am looking to point what I already know at a subject I care about, and I am content to earn the scope rather than be handed it.
 
@@ -21,7 +21,7 @@ I understand the obvious concern with a candidate at my experience level, so: I 
 
 ## DIRECTLY RELEVANT TO THIS ROLE
 
-**Content Creation** — I write and produce everything I publish: long-form video scripts, short-form Reels, carousel copy, newsletters, landing page copy and ad copy, in both Cantonese and English. Two years of weekly output on @aieasyjob, plus copywriting across 20+ client brands, each with a different voice.
+**Content Creation** — I write and produce everything I publish: long-form video scripts, short-form Reels, carousel copy, newsletters, landing page copy and ad copy, in both Cantonese and English. Two years of sustained output on @aieasyjob — 58 films, eight of them in the last month, plus copywriting across 20+ client brands, each with a different voice.
 
 **Social Media Management** — Full ownership of three platforms (YouTube, Instagram, Facebook) as a solo operator: scheduling, publishing, community replies, and weekly testing against native analytics. One Facebook Reel reached **76,000 organic views from a 77-follower page** — no paid support. I answer my own comments and DMs, which is where most of what I know about this audience came from.
 
@@ -40,7 +40,7 @@ I understand the obvious concern with a candidate at my experience level, so: I 
 ## SELECTED RESULTS
 
 - **76,000 organic views** on a single Facebook Reel from a 77-follower page — ~990x follower count, zero paid support. A second Reel reached 11,000 using the same structure.
-- **84,000+ YouTube views across 57 videos** on @aieasyjob; 7 videos published in the trailing 30 days.
+- **87,500+ YouTube views across 58 videos** on @aieasyjob; 8 videos published in the trailing 30 days.
 - **+200% conversion rate** for a client through systematic AI-assisted creative testing — 10+ variants per cycle under single-variable discipline.
 - **ROAS from 0.3x to 3x in 90 days** for a fashion and lifestyle retailer, rebuilding the funnel around cold-audience prospecting.
 - **HK$300K incremental GMV in 5 months** and **30% organic traffic growth** at Baby Central through integrated SEO and paid social.
@@ -53,7 +53,7 @@ I understand the obvious concern with a candidate at my experience level, so: I 
 
 ### Founder & Content Creator — @aieasyjob (YouTube · Instagram · Facebook)
 *2024 – Present | Hong Kong*
-Cantonese-language AI education channel built and run solo — scripting, filming, editing, publishing, community management and analytics, on a weekly cadence. 84,000+ YouTube views across 57 videos. 76,000-view organic Facebook Reel from a 77-follower base. Weekly testing on hooks, thumbnails and formats against native retention data. Built an AI production pipeline that cuts scripting time roughly 60%.
+Cantonese-language AI education channel built and run solo — scripting, filming, editing, publishing, community management and analytics, on a sustained publishing cadence. 87,500+ YouTube views across 58 videos. 76,000-view organic Facebook Reel from a 77-follower base. Continuous testing on hooks, thumbnails and formats against native retention data. Built an AI production pipeline that cuts scripting time roughly 60%.
 
 ### Freelance Digital Marketing Consultant
 *Mar 2024 – Present | Hong Kong & Regional Clients*

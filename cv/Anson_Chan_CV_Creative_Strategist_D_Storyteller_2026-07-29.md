@@ -9,7 +9,7 @@
 
 Creative Strategist and content creator who turns complex, technical subjects into stories ordinary audiences act on. Founder of @aieasyjob — a Cantonese AI-education brand across YouTube, Instagram and Facebook built from zero, solo — where the entire craft is translation: taking AI agents, automation and prompt engineering and rebuilding them as narrative that non-technical viewers actually finish.
 
-The clearest evidence is structural, not lucky. A single Facebook Reel reached **76,000 organic views from a 77-follower page** — approximately **990x follower count and 210x the channel median**, with zero paid support — and a second Reel using the same story architecture reached 11,000 views. On YouTube, 84,000+ views across 57 videos with 7 published in the trailing 30 days. Story structure is the only variable that could have produced that; there was no budget and no distribution to borrow.
+The clearest evidence is structural, not lucky. A single Facebook Reel reached **76,000 organic views from a 77-follower page** — approximately **990x follower count and 210x the channel median**, with zero paid support — and a second Reel using the same story architecture reached 11,000 views. On YouTube, 87,500+ views across 58 videos with 7 published in the trailing 30 days. Story structure is the only variable that could have produced that; there was no budget and no distribution to borrow.
 
 Storytelling here is accountable to conversion, not to applause. Content converts directly into paying B2B clients (HK$13,800/month consulting packages), and the same narrative discipline sits on top of 7+ years of commercial creative and performance work — HK$3M+ ad spend at 3–10x ROAS and a 200+ KOL community programme across HK and SEA.
 
@@ -52,7 +52,7 @@ Claude for scripting and story structure · Midjourney and Ideogram for visuals 
 
 **Action.** Built the channel's entire editorial craft around translation rather than explanation. Each piece opens on a recognisable human situation, not a tool name; the technical payload is introduced only once the viewer has a reason to want it; and every concept is anchored to a concrete outcome the viewer can picture in their own working life. Developed the "Working Dad" AI series to attach abstract capability to a specific lived context.
 
-**Result.** 84,000+ YouTube views across 57 videos and a sustained weekly publishing cadence as a solo operator, with content consistently reaching audiences well beyond the subscriber base — the mark of stories that get shared rather than merely watched.
+**Result.** 87,500+ YouTube views across 58 videos and a sustained publishing cadence as a solo operator, with content consistently reaching audiences well beyond the subscriber base — the mark of stories that get shared rather than merely watched.
 
 ### 3. Community as a Creative Engine — 200+ KOL Partnerships
 
@@ -80,9 +80,9 @@ Claude for scripting and story structure · Midjourney and Ideogram for visuals 
 | Facebook | Second Reel above 10K | 11,000 views |
 | Facebook | Outlier ratio vs channel median | ~210x |
 | Facebook | Views vs 77-follower base | ~990x |
-| YouTube (@aieasyjob) | Cumulative views / videos | 84,000+ / 57 |
-| YouTube | Views added, trailing 30 days | 6,700+ |
-| YouTube | Videos published, trailing 30 days | 7 |
+| YouTube (@aieasyjob) | Cumulative views / videos | 87,500+ / 58 |
+| YouTube | Views added, trailing 30 days | 9,300+ |
+| YouTube | Videos published, trailing 30 days | 8 |
 | Content-sourced revenue | Consulting packages | HK$13,800/month |
 | All channels | Paid amplification | None — fully organic |
 
@@ -109,7 +109,7 @@ Claude for scripting and story structure · Midjourney and Ideogram for visuals 
 
 - Built a Cantonese AI-education content brand from zero as a solo creator with full ownership of ideation, scripting, filming, editing, publishing and community response across YouTube long-form and Shorts, Instagram Reels and carousels, and Facebook Reels.
 - Produced a 76,000-view organic Facebook Reel from a 77-follower base — approximately 990x follower count and 210x channel median — plus a second Reel at 11,000 views, with zero paid support.
-- Accumulated 84,000+ YouTube views across 57 videos, publishing 7 videos in the trailing 30 days while sustaining editorial quality.
+- Accumulated 87,500+ YouTube views across 58 videos, publishing 8 videos in the trailing 30 days while sustaining editorial quality.
 - Developed a repeatable story architecture — hook, tension, payoff, return — tested weekly against retention and engagement analytics and documented into a working playbook.
 - Translated complex AI concepts (agents, automation, prompt engineering) into accessible Cantonese narrative for non-technical audiences; created the "Working Dad" AI series to anchor abstract capability in lived context.
 - Converted audience trust into revenue — B2B consulting enquiries and proposals at HK$13,800/month packages sourced entirely from organic content.
@@ -157,7 +157,7 @@ Claude (daily — scripting, story structure, creative briefs, custom skills) ·
 | Asset | Link | What it demonstrates |
 |---|---|---|
 | Portfolio site | digitalanson.com | Positioning, messaging and landing page copy |
-| YouTube | youtube.com/@aieasyjob | Long-form narrative craft, "Working Dad" AI series — 84,000+ views / 57 videos |
+| YouTube | youtube.com/@aieasyjob | Long-form narrative craft, "Working Dad" AI series — 87,500+ views / 58 videos |
 | Instagram | @aieasyjob | Reels hook construction and carousel narrative sequencing |
 | Facebook | AI 係咁易 | 76,000-view organic Reel — story structure at ~990x follower count |
 

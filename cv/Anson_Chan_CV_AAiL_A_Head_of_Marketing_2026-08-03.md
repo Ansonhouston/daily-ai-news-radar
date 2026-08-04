@@ -9,7 +9,7 @@
 
 Marketing leader with 8 years building and running growth functions for consumer and DTC brands across Hong Kong and Southeast Asia — HK$3M+ cumulative ad spend managed at 3–10x ROAS, including HK$500K+/month at Hong Kong's #1 baby e-commerce platform.
 
-For the past two years I have built and operated **@aieasyjob**, a Cantonese-language AI education brand, entirely solo — strategy, content, production, distribution and analytics across YouTube, Instagram and Facebook. It is a marketing function of one: 84,000+ YouTube views across 57 videos, and a 76,000-view organic Facebook Reel from a 77-follower page — roughly 990x follower count with zero paid support.
+For the past two years I have built and operated **@aieasyjob**, a Cantonese-language AI education brand, entirely solo — strategy, content, production, distribution and analytics across YouTube, Instagram and Facebook. It is a marketing function of one: 87,500+ YouTube views across 58 videos, and a 76,000-view organic Facebook Reel from a 77-follower page — roughly 990x follower count with zero paid support.
 
 That combination is the specific thing on offer here: someone who has run paid growth at real budget scale, **and** has spent two years learning how to make AI education land with a Hong Kong audience in their own language.
 
@@ -40,12 +40,12 @@ Trilingual: **Cantonese (native)**, English (fluent), Mandarin (fluent). Hong Ko
 A fashion and lifestyle retailer was running Meta Ads at 0.3x ROAS with budget concentrated in warm retargeting. I rebuilt the full-funnel strategy, reallocated **70% of budget into cold-audience prospecting**, and ran single-variable tests to isolate which hooks — not which audiences — were failing. **ROAS reached 3x within 90 days on a majority-prospecting split** — a harder result than a retargeting-led lift, because it proves net-new acquisition rather than harvesting existing demand.
 
 ### Built an audience from zero, in Cantonese, on AI education
-**@aieasyjob** — 84,000+ YouTube views across 57 videos; 7 videos published in the trailing 30 days. One Facebook Reel reached **76,000 organic views from a 77-follower page** (~990x follower count, ~210x channel median) with no paid support; a second reached 11,000, confirming the result was structural. The channel converted directly into B2B consulting enquiries at HK$13,800/month packages — a working content-to-qualified-lead pipeline.
+**@aieasyjob** — 87,500+ YouTube views across 58 videos; 8 videos published in the trailing 30 days. One Facebook Reel reached **76,000 organic views from a 77-follower page** (~990x follower count, ~210x channel median) with no paid support; a second reached 11,000, confirming the result was structural. The channel converted directly into B2B consulting enquiries at HK$13,800/month packages — a working content-to-qualified-lead pipeline.
 
 *Relevance: this is the exact audience, language and subject matter of an AI education company's market — built without a budget.*
 
 ### Introduced generative AI into commercial production in 2022
-Roughly two years before industry-wide adoption. Cut A/B testing cycles by 50% and materially reduced production cost. Today I run a full AI production pipeline — reusable prompt templates with conditional logic and QC checklists, automated competitor and trend monitoring, automated carousel generation — which is the only reason one person can sustain weekly multi-platform output at quality.
+Roughly two years before industry-wide adoption. Cut A/B testing cycles by 50% and materially reduced production cost. Today I run a full AI production pipeline — reusable prompt templates with conditional logic and QC checklists, automated competitor and trend monitoring, automated carousel generation — which is the only reason one person can sustain multi-platform output at volume at quality.
 
 ### Grew a 30,000-subscriber lifecycle programme
 Owned the Klaviyo content-to-conversion system at Baby Central — 2x weekly campaigns plus automated welcome, abandoned cart, post-purchase and win-back flows.
@@ -79,7 +79,7 @@ What transfers cleanly: budget discipline, attribution, creative testing at volu
 ### Founder & Marketing Operator — @aieasyjob (YouTube · Instagram · Facebook)
 *2024 – Present | Hong Kong*
 - Built a Cantonese-language AI education brand from zero as a solo operator with full ownership of strategy, content, production, distribution and analytics.
-- 84,000+ YouTube views across 57 videos; 76,000-view organic Facebook Reel from a 77-follower base; second Reel at 11,000 views.
+- 87,500+ YouTube views across 58 videos; 76,000-view organic Facebook Reel from a 77-follower base; second Reel at 11,000 views.
 - Engineered an AI production pipeline (Claude, ChatGPT, Gemini, Midjourney) with reusable templates and automated QC — cutting scripting time ~60% and enabling same-day concept-to-publish.
 - Converted organic audience into B2B consulting enquiries at HK$13,800/month packages.
 

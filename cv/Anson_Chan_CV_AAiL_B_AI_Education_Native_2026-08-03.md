@@ -9,7 +9,7 @@
 
 **I have spent two years doing, unpaid and at my own risk, the exact thing an AI education company needs done: making AI comprehensible to a Hong Kong audience in Cantonese, at volume, and proving it with numbers.**
 
-@aieasyjob is my own AI education brand — 57 videos, 84,000+ YouTube views, and a Facebook Reel that reached **76,000 organic views from a 77-follower page**. That is roughly 990x follower count and 210x channel median, with zero paid support. A second Reel reached 11,000, which is how I know it was structure and not luck.
+@aieasyjob is my own AI education brand — 58 videos, 87,500+ YouTube views, and a Facebook Reel that reached **76,000 organic views from a 77-follower page**. That is roughly 990x follower count and 210x channel median, with zero paid support. A second Reel reached 11,000, which is how I know it was structure and not luck.
 
 Before that, and alongside it, I ran real budgets: **HK$3M+ cumulative ad spend at 3–10x ROAS**, including **HK$500K+/month** at Hong Kong's #1 baby e-commerce platform.
 
@@ -28,10 +28,10 @@ Then I started teaching it. @aieasyjob exists because I kept meeting Hong Kong p
 Two years of doing that has taught me things that do not appear on a performance-marketing CV:
 
 - **Where the comprehension actually breaks.** Not at the tool — at the first step. People do not fail because Claude is hard; they fail because nobody told them what to do on Monday morning. Content that starts at the tool loses them.
-- **What earns attention in this category.** The 76,000-view Reel worked because of a first-frame pattern interrupt and a tension-led opening, tested weekly against real retention data — not because the topic was AI.
+- **What earns attention in this category.** The 76,000-view Reel worked because of a first-frame pattern interrupt and a tension-led opening, tested against real retention data — not because the topic was AI.
 - **What Hong Kong educators and professionals actually ask.** From two years of comments, DMs and consulting enquiries. That is primary audience research most companies pay for.
 
-An AI education company is selling a behaviour change, not software. I have been running that experiment on myself, publicly, weekly, for two years.
+An AI education company is selling a behaviour change, not software. I have been running that experiment on myself, publicly, for two years.
 
 ---
 
@@ -41,8 +41,8 @@ An AI education company is selling a behaviour change, not software. I have been
 |---|---|
 | Facebook Reel, organic, from a 77-follower page | **76,000 views** — ~990x followers, ~210x channel median |
 | Second Reel, same structural approach | 11,000 views — result was structural, not incidental |
-| YouTube @aieasyjob | 84,000+ views across 57 videos |
-| YouTube, trailing 30 days | 6,700+ views / 7 videos published |
+| YouTube @aieasyjob | 87,500+ views across 58 videos |
+| YouTube, trailing 30 days | 9,300+ views / 8 videos published |
 | Paid amplification across all channels | **None** — fully organic |
 | Content-to-revenue | B2B consulting enquiries at HK$13,800/month packages, sourced from organic content |
 
@@ -66,7 +66,7 @@ An AI education company is selling a behaviour change, not software. I have been
 
 **Content that answers the real question.** For schools that is not "what is AI" — it is "how do I justify this to my principal, what do I do in week one, and how do I know it worked." That is a content architecture problem, and it maps directly onto the funding conversation every Hong Kong school is now having.
 
-**Volume without quality collapse.** I sustain weekly multi-platform output as one person because I built the pipeline for it — reusable prompt templates with conditional logic and QC checklists, automated competitor and trend monitoring, automated carousel generation, enforced naming and version control. That system is portable, and it is what lets a small team publish like a large one.
+**Volume without quality collapse.** I sustain multi-platform output at volume as one person because I built the pipeline for it — reusable prompt templates with conditional logic and QC checklists, automated competitor and trend monitoring, automated carousel generation, enforced naming and version control. That system is portable, and it is what lets a small team publish like a large one.
 
 ---
 
@@ -92,7 +92,7 @@ What I would bring to that gap is the habit of learning a category fast and in p
 
 ### Founder & AI Education Creator — @aieasyjob
 *2024 – Present | Hong Kong*
-Cantonese-language AI education brand built solo across YouTube, Instagram and Facebook. Full ownership: strategy, scripting, shooting, editing, publishing, analytics. 84,000+ YouTube views / 57 videos. 76,000-view organic Facebook Reel from a 77-follower base. Weekly hypothesis-driven testing on hooks, thumbnails and formats against native retention data, compounded into a documented playbook. Converted audience trust into B2B consulting revenue.
+Cantonese-language AI education brand built solo across YouTube, Instagram and Facebook. Full ownership: strategy, scripting, shooting, editing, publishing, analytics. 87,500+ YouTube views / 58 videos. 76,000-view organic Facebook Reel from a 77-follower base. Hypothesis-driven testing on hooks, thumbnails and formats against native retention data, compounded into a documented playbook. Converted audience trust into B2B consulting revenue.
 
 ### Freelance Digital Marketing Consultant
 *Mar 2024 – Present | Hong Kong & Regional Clients*
@@ -128,7 +128,7 @@ Associate Degree, Leisure and Tourism Management — City University of Hong Kon
 
 | Channel | Link | What it shows |
 |---|---|---|
-| YouTube | youtube.com/@aieasyjob | Long-form AI teaching in Cantonese — 84,000+ views / 57 videos |
+| YouTube | youtube.com/@aieasyjob | Long-form AI teaching in Cantonese — 87,500+ views / 58 videos |
 | Facebook | AI 係咁易 | 76,000-view organic Reel — hook design at ~990x follower count |
 | Instagram | @aieasyjob | Reels hook design and carousel narrative sequencing |
 | Portfolio | digitalanson.com | Positioning, messaging, landing page copy |

@@ -131,10 +131,10 @@ Introduced generative AI into commercial creative production in **2022**, roughl
 
 ### Founder, Writer & Director — @aieasyjob (YouTube · Instagram · Facebook)
 *2024 – Present | Hong Kong*
-- Built a Cantonese-language brand from zero, solo, owning editorial strategy, scripting, direction, edit, publishing and analytics on a weekly cadence — 58 pieces to date.
+- Built a Cantonese-language brand from zero, solo, owning editorial strategy, scripting, direction, edit, publishing and analytics on a sustained publishing cadence — 58 pieces to date.
 - Produced a **76,000-view organic Facebook Reel from a 77-follower page** (~990x follower count, ~210x page median), zero paid support; a second at 11,000 confirmed the result was structural.
 - Directed original Cantonese brand films — a skincare commercial, a five-minute period drama, and two fictional Hong Kong brand campaigns using TVB-format interview conventions and Cantonese lip-sync.
-- Ran weekly hypothesis-driven tests on opening structure and format against native retention data, compounding findings into a documented playbook; built an AI pipeline cutting scripting time ~60%.
+- Ran hypothesis-driven tests on opening structure and format against native retention data, compounding findings into a documented playbook; built an AI pipeline cutting scripting time ~60%.
 - Converted audience trust into B2B consulting engagements at HK$13,800/month packages.
 
 ### Freelance Digital Marketing Consultant

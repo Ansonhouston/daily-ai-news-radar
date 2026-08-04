@@ -126,7 +126,7 @@ GA4 dashboards & stakeholder reporting · UTM taxonomy & pixel governance · Sho
 *2024 – Present | Hong Kong*
 
 - Built and run a multi-platform content operation solo on a custom AI production pipeline, testing hooks, formats and messaging weekly against native retention analytics.
-- Produced a **76,000-view organic Facebook Reel from a 77-follower base** (~990x follower count) plus a second at 11,000 views, zero paid support; **84,000+ YouTube views across 57 videos**.
+- Produced a **76,000-view organic Facebook Reel from a 77-follower base** (~990x follower count) plus a second at 11,000 views, zero paid support; **87,500+ YouTube views across 58 videos**.
 - Converted organic audience into revenue — B2B consulting engagements at HK$13,800/month, a complete content-to-customer funnel with no paid acquisition.
 
 ### Freelance Digital Marketing Manager — 20+ Retail / Lifestyle / F&B Clients

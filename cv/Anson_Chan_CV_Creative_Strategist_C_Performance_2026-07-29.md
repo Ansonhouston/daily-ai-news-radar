@@ -92,8 +92,8 @@ Data-first operating habits: GA4 and Meta Ads Manager dashboards, UTM and pixel 
 |---|---|---|
 | Facebook (AI 係咁易) | Top Reel, organic (77-follower base) | 76,000 views — ~210x median, ~990x followers |
 | Facebook | Second Reel above 10K | 11,000 views |
-| YouTube (@aieasyjob) | Cumulative views / videos | 84,000+ / 57 |
-| YouTube | Views added / videos published, trailing 30 days | 6,700+ / 7 |
+| YouTube (@aieasyjob) | Cumulative views / videos | 87,500+ / 58 |
+| YouTube | Views added / videos published, trailing 30 days | 9,300+ / 8 |
 | All channels | Paid amplification | None — fully organic |
 
 ---
@@ -143,9 +143,9 @@ Customer personas & journey-stage creative · UGC frameworks & creator briefing 
 ### Founder & Creative Operator — @aieasyjob (YouTube · Instagram · Facebook)
 *2024 – Present | Hong Kong (Global Audience)*
 
-- Operate a multi-platform content engine as a live creative testing lab — weekly hypothesis-driven tests on hooks, thumbnails and formats scored against retention and thumb-stop data.
+- Operate a multi-platform content engine as a live creative testing lab — hypothesis-driven tests on hooks, thumbnails and formats scored against retention and thumb-stop data.
 - Produced a 76,000-view organic Facebook Reel from a 77-follower base (~990x follower count, ~210x channel median) plus a second Reel at 11,000 views, with zero paid support.
-- Accumulated 84,000+ YouTube views across 57 videos, publishing 7 in the trailing 30 days as a solo operator.
+- Accumulated 87,500+ YouTube views across 58 videos, publishing 8 in the trailing 30 days as a solo operator.
 - Proved content-to-revenue: B2B consulting leads at HK$13,800/month packages sourced directly from organic content.
 
 ### Freelance Digital Marketing Manager — 20+ Retail / Lifestyle / F&B Clients
@@ -172,7 +172,7 @@ Claude (daily — scripting, briefs, custom skills, pipeline automation) · Chat
 | Asset | Link | What it demonstrates |
 |---|---|---|
 | Portfolio site | digitalanson.com | Positioning, messaging and landing page copy |
-| YouTube | youtube.com/@aieasyjob | Thumbnail and title testing discipline — 84,000+ views / 57 videos |
+| YouTube | youtube.com/@aieasyjob | Thumbnail and title testing discipline — 87,500+ views / 58 videos |
 | Instagram | @aieasyjob | Reels hook testing and carousel format iteration |
 | Facebook | AI 係咁易 | 76,000-view organic Reel — ~210x channel median, ~990x follower count |
 

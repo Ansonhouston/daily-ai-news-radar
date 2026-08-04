@@ -95,7 +95,7 @@ GA4 dashboards & reporting · Meta Ads Manager · Shopify DTC analytics · UTM t
 
 **Action.** Designed an end-to-end pipeline: custom Claude skills for scripting, briefs and competitor teardowns; Midjourney and Ideogram for visual production; an automated carousel generation system with image-matching logic and enforced design standards; and reusable templates with QC checklists governing the chain.
 
-**Result.** Sustained weekly output across YouTube, Instagram and Facebook as one person — including a **76,000-view organic Facebook Reel from a 77-follower page (~990x follower count)** with zero paid support, and 84,000+ YouTube views across 57 videos. Scripting time cut ~60%.
+**Result.** Sustained output across YouTube, Instagram and Facebook as one person — including a **76,000-view organic Facebook Reel from a 77-follower page (~990x follower count)** with zero paid support, and 87,500+ YouTube views across 58 videos. Scripting time cut ~60%.
 
 ---
 
@@ -129,7 +129,7 @@ GA4 dashboards & reporting · Meta Ads Manager · Shopify DTC analytics · UTM t
 
 - Built a multi-platform content operation from zero as a solo operator using a custom AI production pipeline — a working proof that AI-driven workflows scale output without added headcount.
 - Produced a **76,000-view organic Facebook Reel from a 77-follower base** (~990x follower count, ~210x channel median) plus a second Reel at 11,000 views, with zero paid support.
-- Accumulated **84,000+ YouTube views across 57 videos**; ran weekly hypothesis-driven testing on hooks, thumbnails and formats against native retention analytics.
+- Accumulated **87,500+ YouTube views across 58 videos**; ran weekly hypothesis-driven testing on hooks, thumbnails and formats against native retention analytics.
 - Converted organic content into revenue — B2B consulting engagements at HK$13,800/month.
 
 ### Freelance Digital Marketing Manager — 20+ Retail / Lifestyle / F&B Clients
