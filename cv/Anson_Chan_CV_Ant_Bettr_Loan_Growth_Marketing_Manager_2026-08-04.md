@@ -157,6 +157,6 @@ Associate Degree, Leisure and Tourism Management — City University of Hong Kon
 
 **Expected:** **HK$50,000 – 55,000 per month base**, excluding bonus. This reflects the Hong Kong market range for a growth and CRM manager role at this scope, plus the move from self-employed consulting into a permanent position. Flexible depending on how the role is levelled and the total package — happy to anchor to your budgeted band rather than guess.
 
-**Notice period:** None. Currently freelance, so available immediately once terms are agreed.
+**Availability:** 2 weeks from agreed terms.
 
 **Location:** Hong Kong, available on-site.
