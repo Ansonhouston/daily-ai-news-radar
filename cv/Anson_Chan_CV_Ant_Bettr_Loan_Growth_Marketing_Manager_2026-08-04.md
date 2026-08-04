@@ -150,3 +150,13 @@ Associate Degree, Leisure and Tourism Management — City University of Hong Kon
 ## LANGUAGES
 
 **Traditional Chinese — native, writing-grade** · **English — fluent, writing-grade** · Cantonese — native · Mandarin — fluent
+
+## AVAILABILITY & PACKAGE
+
+**Current:** HK$40,600 per month — self-employed consulting income. Gross, and excluding employer MPF contribution, paid annual leave and medical coverage, so not directly comparable to a permanent package.
+
+**Expected:** **HK$50,000 – 55,000 per month base**, excluding bonus. This reflects the Hong Kong market range for a growth and CRM manager role at this scope, plus the move from self-employed consulting into a permanent position. Flexible depending on how the role is levelled and the total package — happy to anchor to your budgeted band rather than guess.
+
+**Notice period:** None. Currently freelance, so available immediately once terms are agreed.
+
+**Location:** Hong Kong, available on-site.
