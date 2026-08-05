@@ -9,3 +9,7 @@ out/
 *.wav
 *.mp3
 *.ass
+
+# Python
+__pycache__/
+*.py[cod]
