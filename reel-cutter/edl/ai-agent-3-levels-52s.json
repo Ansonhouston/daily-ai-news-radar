@@ -1,0 +1,171 @@
+{
+  "title": "AI Agent 3 Levels — 52s Reel (@AIeasyjob)",
+  "language": "yue-Hant",
+  "resolution": [1080, 1920],
+  "fps": 30,
+  "style": {
+    "font": null,
+    "body_size": 68,
+    "hook_size": 108,
+    "slate_size": 40,
+    "outline": 6,
+    "body_margin_v": 320,
+    "side_margin": 90
+  },
+  "audio": {
+    "vo": "media/vo.wav",
+    "music": "media/music.mp3",
+    "music_gain_db": -19,
+    "duck_db": -6
+  },
+  "end_card": {
+    "start": 50.5,
+    "end": 52.5,
+    "text": "留言『我要 Agent 攻略』\n免費攞我整套 Agent 設定"
+  },
+  "segments": [
+    {
+      "id": "S1",
+      "start": 0.0,
+      "end": 4.0,
+      "beat": "Hook — 點名稻草人 + 身份焦慮",
+      "vo": "你仲係用 ChatGPT 一問一答做 Marketing？呢個做法，落後咗一個世代。",
+      "sub": "你仲係一問一答做 Marketing？",
+      "sub_style": "hook",
+      "shot": "真人半身直望鏡頭，中景，手持微晃；第 3 秒切錄屏 ChatGPT 對話框",
+      "source": "media/s1_talking_head.mov",
+      "in": 0.0,
+      "sfx": "第 3.2 秒一下 impact"
+    },
+    {
+      "id": "S2",
+      "start": 4.0,
+      "end": 7.0,
+      "beat": "時代宣告 + 在場證明",
+      "vo": "而家真正跑得起嘅，係 AI Agent。我自己日日咁跑。",
+      "sub": "而家真正跑得起嘅係 AI Agent",
+      "sub_style": "body",
+      "shot": "高速錄屏：你自己 Claude Code / Agent dashboard 連續 scroll",
+      "source": "media/s2_dashboard.mov",
+      "in": 0.0,
+      "sfx": "whoosh"
+    },
+    {
+      "id": "S3",
+      "start": 7.0,
+      "end": 10.0,
+      "beat": "3 個承諾（唔要 4）",
+      "vo": "三樣嘢：Agent 自己跑 Research、自己出 Post、自己入 CRM。",
+      "sub": "① 自己跑 Research　② 自己出 Post　③ 自己入 CRM",
+      "sub_style": "body",
+      "shot": "3 宮格，每格 1 秒逐格彈出，配 3 下 beat",
+      "source": "media/s3_three_grid.mov",
+      "in": 0.0,
+      "sfx": "3 下 beat sync"
+    },
+    {
+      "id": "S4",
+      "start": 10.0,
+      "end": 17.0,
+      "beat": "三宗罪（診斷）",
+      "vo": "ChatGPT 唔 work，唔係因為笨，係三件事：唔識你公司資料、跟唔到你工作流程、冇能力自己跑完一個 Campaign。",
+      "sub": "① 唔識你公司資料\n② 跟唔到你工作流程\n③ 跑唔完成個 Campaign",
+      "sub_style": "body",
+      "shot": "對比 slide，三行逐行點亮打紅剔；底層放模糊嘅 ChatGPT 對話錄屏",
+      "source": "media/s4_three_sins.mov",
+      "in": 0.0,
+      "sfx": "每行一下 tick"
+    },
+    {
+      "id": "S5",
+      "start": 17.0,
+      "end": 22.0,
+      "beat": "⚡ 二次 Hook（對手冇）",
+      "vo": "但係九成人搞錯順序：一開始就搭 workflow，其實要先寫知識庫。",
+      "sub": "九成人搞錯順序",
+      "sub_style": "hook",
+      "shot": "全屏紅底白字 0.6 秒硬切，再切返錄屏：一個空 workflow canvas",
+      "source": "media/s5_red_card.mov",
+      "in": 0.0,
+      "sfx": "riser + impact（全片最大聲一下）"
+    },
+    {
+      "id": "S6",
+      "start": 22.0,
+      "end": 29.0,
+      "beat": "公式：四件事",
+      "vo": "Agent 要成事，只需四樣：知識庫俾佢 Context、Skill 俾佢步驟、一個清晰目標俾佢自主、API 俾佢真係做得到嘢。",
+      "sub": "知識庫 = Context\nSkill = 步驟\n清晰目標 = 自主\nAPI = 做得到嘢",
+      "sub_style": "body",
+      "shot": "四塊卡逐塊砌埋一齊成一個方格；每句對應一塊",
+      "source": "media/s6_formula.mov",
+      "in": 0.0,
+      "sfx": "每塊一下 click"
+    },
+    {
+      "id": "S7",
+      "start": 29.0,
+      "end": 36.5,
+      "beat": "真實鏈條演示（可信度核心）",
+      "vo": "我俾佢一句目標，佢自己搵市場訊號、自己寫成 Post、自己填報名表、自己 send 跟進 email。我全程只做審稿。",
+      "sub": "我只出一句目標\n佢自己跑完成條鏈",
+      "sub_style": "body",
+      "shot": "真錄屏連拍：prompt 輸入 → research 輸出 → Post 草稿 → Google Sheet 入行 → Mailchimp send。每段 1.5 秒",
+      "source": "media/s7_real_chain.mov",
+      "in": 0.0,
+      "sfx": "keyboard + 每步一下 pop"
+    },
+    {
+      "id": "S8",
+      "start": 36.5,
+      "end": 39.5,
+      "beat": "高潮句",
+      "vo": "到呢一步，你就係一個人帶一隊 Agent。",
+      "sub": "一個人　＝　一隊 Agent",
+      "sub_style": "hook",
+      "shot": "節點圖：中間一個你，外圍六個 Agent 節點逐個連線著燈",
+      "source": "media/s8_one_to_team.mov",
+      "in": 0.0,
+      "sfx": "音樂短暫抽走 0.3 秒再入（留白）"
+    },
+    {
+      "id": "S9",
+      "start": 39.5,
+      "end": 44.5,
+      "beat": "⚡ 差異化：兩樣唔好交（對手冇）",
+      "vo": "但有兩樣嘢，千萬唔好交俾佢：定位同取捨。判斷留俾自己，串接才交 Agent。",
+      "sub": "判斷 → 留俾自己\n串接 → 交俾 Agent",
+      "sub_style": "body",
+      "shot": "一分為二嘅圖：左邊「人」右邊「Agent」，兩個 icon 各自歸邊",
+      "source": "media/s9_do_not_delegate.mov",
+      "in": 0.0,
+      "sfx": "兩下 thud"
+    },
+    {
+      "id": "S10",
+      "start": 44.5,
+      "end": 48.0,
+      "beat": "三層身份階梯",
+      "vo": "自己做係 1X，帶一隊係 10X，做到全公司都用得，就係 100X。",
+      "sub": "1X 執行者 → 10X 管理者 → 100X 建造者",
+      "sub_style": "body",
+      "shot": "三級樓梯逐級升，數字由 1X 跳 10X 跳 100X",
+      "source": "media/s10_ladder.mov",
+      "in": 0.0,
+      "sfx": "三下升調"
+    },
+    {
+      "id": "S11",
+      "start": 48.0,
+      "end": 50.5,
+      "beat": "CTA",
+      "vo": "想要我整套 Agent 設定？留言『我要 Agent 攻略』。",
+      "sub": "留言『我要 Agent 攻略』",
+      "sub_style": "hook",
+      "shot": "真人半身回鏡（同 S1 同一個機位，形成閉環）",
+      "source": "media/s11_talking_head_cta.mov",
+      "in": 0.0,
+      "sfx": "音樂收結"
+    }
+  ]
+}

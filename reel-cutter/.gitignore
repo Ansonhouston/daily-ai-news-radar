@@ -1,0 +1,11 @@
+# Footage, VO and music stay local — never commit media to git.
+media/*
+!media/.gitkeep
+
+# Renders
+out/
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.ass
