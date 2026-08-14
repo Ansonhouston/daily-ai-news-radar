@@ -82,8 +82,8 @@ A fashion and lifestyle retailer with budget trapped in warm retargeting and a s
 ### Editorial standards enforced across 200+ third parties
 Sourced, briefed and quality-controlled **200+ KOL and influencer partners** across HK and SEA in a trust-sensitive category — including rejecting work before a client saw it. Your brief says *"you enforce high editorial standards that AI cannot replicate on its own."* This is that muscle, built on human contributors, and it transfers directly to governing AI-assisted output at volume.
 
-### On leadership — the honest version
-**I have never had direct reports.** What I have is cross-functional delivery at Baby Central — product, design, development, operations and merchandising, shipping to commercial deadlines — and the 200-partner programme above, which is accountability for other people's output without authority over them. If this role carries a team, I would be a first-time people manager and you should price that in.
+### On leadership
+At Baby Central I directly managed a **Marketing Executive and a Designer**, and separately **held two external agencies to account** — one for affiliate marketing, one for SEM — reviewing their plans, checking their numbers, and pushing back when performance didn't hold up. Combined with the 200-partner programme above, that is people management plus vendor management, not one or the other. What I have not done is run a team at SaaS scale with formal weekly review loops — that cadence I would be building, not inheriting.
 
 ---
 
@@ -97,9 +97,7 @@ Sourced, briefed and quality-controlled **200+ KOL and influencer partners** acr
 
 **Weeks 4–12 — attack GEO/AEO deliberately, and measure it.** Being the cited source in an AI-generated answer is a different objective from ranking, and most of the market is currently guessing at it. My first move is measurement, not tactics: establish how Wati currently surfaces in Perplexity and ChatGPT Search across the buying-intent question set, so there is a baseline to move. Then structure for it — entity clarity, schema, information gain over restating consensus.
 
-**Throughout — shift the narrative up-market, carefully.** Your brief wants organic aimed at mid-market and enterprise. That is a positioning change before it is a keyword change: enterprise buyers search different questions, in a different register, and with procurement in the room. I would want the segment's actual objection list before writing a word of it.
-
-**And I would bring the kill list to every weekly review.** What I stopped, and what it cost to learn. A growth function with no kill list is not testing, it is accumulating.
+**Throughout — shift the narrative up-market, carefully, and bring a kill list to every weekly review.** Your brief wants organic aimed at mid-market and enterprise, which is a positioning change before it is a keyword change — enterprise buyers search different questions, in a different register, with procurement in the room. And I would report what I stopped alongside what I started: a growth function with no kill list is not testing, it is accumulating.
 
 ---
 
@@ -128,6 +126,7 @@ Sourced, briefed and quality-controlled **200+ KOL and influencer partners** acr
 - Owned the **30,000-subscriber Klaviyo lifecycle programme** — twice-weekly campaigns plus welcome, abandoned cart, post-purchase and win-back automation.
 - Built **GA4 and Meta Ads Manager dashboards** for monthly senior-stakeholder reporting.
 - Built and scaled a **200+ KOL and influencer programme** with briefing standards and output quality control.
+- **Directly managed a Marketing Executive and a Designer**, and held **two external agencies to account** (affiliate marketing, SEM) — reviewing plans, checking performance, pushing back when numbers didn't hold.
 - Delivered cross-functionally with product, design, development, operations and merchandising on commercial deadlines.
 
 ### Freelance Digital Marketing Manager — 20+ Retail / Lifestyle / F&B Clients

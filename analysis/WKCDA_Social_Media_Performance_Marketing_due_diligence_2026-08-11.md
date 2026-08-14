@@ -8,11 +8,14 @@
 
 ---
 
-## 評分 3.5 / 10 —— 職級對口好，但呢間機構財政同管理層嘅風險係讀完先識審批嘅級別
+## 評分 4 / 10 —— 職級對口全 session 最好，但機構財政同管理層嘅風險係讀完先識審批嘅級別
 
-**呢個位喺技能層面同 Baby Central 經驗對得幾好**，但 WKCDA 呢兩年有一條清晰嘅公開財政
-惡化軌跡，加埋一單正喺爭議中嘅高層薪酬事件，你要帶住呢啲資訊入面試，唔可以當一份
-普通嘅政府相關工作睇。
+**【已更正 2026-08-14】** Anson 補充咗 Baby Central 期間實際直接管理一位 Marketing
+Executive、一位 Designer，並管理兩間外部 agency（聯盟行銷、SEM）。呢個令
+§4 requirement 命中率由 4/6 升至 **5/6 全中**，係全 session 目前最高。
+評分由 3.5 上調至 4——但冇再高，因為拉低分數嘅主因（§1-3：機構財政惡化、
+高層薪酬爭議、Glassdoor 偏低）係機構層面嘅風險，同你個人 fit 無關，唔會因為
+呢次更正而改變。
 
 ---
 
@@ -105,7 +108,7 @@ weakest」呢兩句連埋 §1 §2 嘅財政同薪酬爭議一齊睇，畫面係�
 | **At least 6 years** relevant experience in marketing | **8 年** | ✅ |
 | Proven track record managing **social media channels, online media placement, influencer/KOL partnerships, multi-stakeholder social media campaigns** | KOL/influencer 200+ 夥伴計劃 ✅ · 社交頻道 own 過 @aieasyjob 三個平台 ✅ · multi-stakeholder（Baby Central 跨部門）✅ | ✅ |
 | Experience working with **third-party agencies** on performance marketing | 有，但角色反轉 —— 你通常係 agency 側／自己買媒體，未做過「監督外部 agency」嘅甲方角色 | ⚠️ 部分 |
-| **Team management** experience, preferably fast-paced marketing/comms environment | **你冇下屬。** 最接近係 cross-functional delivery 同 200+ 夥伴管理，但冇直接管理過員工 | ❌ |
+| **Team management** experience, preferably fast-paced marketing/comms environment | 【已更正 2026-08-14】Baby Central 時期**直接管理一位 Marketing Executive 同一位 Designer**，另外**管理兩間外部 agency**（聯盟行銷、SEM），審批佢哋嘅計劃同表現。加埋 200+ 夥伴管理，係人員管理 + vendor 管理雙軌，唔止 cross-functional | ✅ |
 | Independent, detail-minded, outcome-oriented, sound judgement, problem-solving | 全部有實質紀錄支撐 | ✅ |
 | Dynamic, fast-paced, tight deadlines | 有 | ✅ |
 | Fluent written/spoken English and Chinese | ✅ writing-grade 雙語 | ✅ |
@@ -115,8 +118,8 @@ weakest」呢兩句連埋 §1 §2 嘅財政同薪酬爭議一齊睇，畫面係�
 呢個對你嚟講：小紅書同抖音你未正式管過品牌帳號（你自己做嘅係 YouTube/IG/FB），
 微信生態你冇經驗。呢三個係要喺 CV 度講明嘅缺口。
 
-**六條主要要求：4 全中、2 部分、1 冇（team management）。**
-比 babybub 嘅 5/4/0 差少少，但比 Wati 同 Madison Pearl 好。
+**六條主要要求：5 全中、1 部分、0 冇。**【已更正 2026-08-14，team management 由 ❌ 改為 ✅】
+比 babybub 嘅 5/4/0 更好，係全 session 目前 requirement 命中率最高嘅一份。
 
 ---
 
@@ -150,13 +153,13 @@ WKCDA 屬於法定機構，薪酬結構通常參考政府 Master Pay Scale 或�
 Glassdoor 評分係本 session 最低、有具體嘅「管理層惡劣對待前線員工」評語。
 **你唔會加入一間穩定增長嘅機構，你會加入一間收縮期、上層有公關壓力嘅機構。**
 
-**CV 要處理嘅三件事：**
-1. **Team management 缺口** —— 唔隱藏，講清楚你嘅 200+ 夥伴管理係
-   「accountability without authority」，同真正帶人唔同，但係相關基礎。
-2. **小紅書／抖音／微信缺口** —— 你做開嘅係 YouTube/IG/FB。要講你識呢啲平台嘅
+**CV 要處理嘅兩件事：**
+1. **小紅書／抖音／微信缺口** —— 你做開嘅係 YouTube/IG/FB。要講你識呢啲平台嘅
    生態邏輯（你成日研究 AI 內容生態），但冇管過品牌帳號。
-3. **"Third-party agencies" 甲方監督角色** —— 你通常係執行方，呢個要轉個框架講：
-   你管過 200+ 個體 KOL 嘅輸出標準，呢個同監督 agency 交付物係同一種紀律。
+2. **"Third-party agencies" 甲方監督角色 —— 呢點依家反而係強項。**
+   Baby Central 期間你直接管過**兩間外部 agency**（聯盟行銷、SEM），加上 200+ KOL
+   輸出標準管理，呢個正正就係 JD 要求嘅 "experience working with third-party agencies
+   on performance marketing initiatives"，唔使轉框架，直接寫。
 
 **必問三條：**
 - 「呢個位嘅 KPI 係點計嘅？門票／入場收入定 awareness／engagement？」
