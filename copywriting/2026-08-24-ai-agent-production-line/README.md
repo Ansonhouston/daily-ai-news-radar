@@ -26,8 +26,22 @@
 - **Brand voice**：健吾式中立旁觀者，🚫 唔講「最強 / 全網第一」
 - **ManyChat trigger 必須完整 phrase**，配 3 條 reply rotation
 
-## ⚠️ 出街前要 Anson 確認
+## ⚠️ 出街前要 Anson 確認（三個平台共通）
 
-- 片尾實際嘅留言 trigger 字眼（transcript ASR 唔清晰，文案暫用完整 phrase 佔位）
-- 62K 係 Facebook 嘅數，各平台文案要唔要註明平台
-- LinkedIn 中文版「總指揮」要唔要統一寫 orchestrator
+1. **🔴 留言 trigger 字眼（最關鍵）** —— 片尾 CTA 嗰段 ASR 聽唔清，FB / IG 文案暫用完整 phrase「我想睇總指揮」／「I WANT THE ORCHESTRATOR」做 placeholder。出街前一定要對返條片實際口播，caption、Story CTA、ManyChat trigger 三個位要同步改（建議兩句都加入 ManyChat trigger list 做保險）。
+2. **62K 嘅平台同時間點** —— 文案寫「喺 Facebook 跑到 62K views」。若果係跨平台合計，或者條數仲喺度升，要改講法／加「截至目前」。
+3. **ManyChat 派發物** —— 暫時只派長片連結 + 下一集 waitlist，冇作任何 PDF / Notion / .skill。有實物派就要改 delivery DM。
+4. **工具名** —— transcript 冇提供實際用邊個 agent / 影片生成平台，全文用泛指。想寫實就要 Anson 補。
+5. **IG link in bio 目的地** —— 現時假設指去 YouTube 條片；若導去 landing page 要改 Story link sticker + caption 尾句。
+6. **LinkedIn 用語** —— 中文版「總指揮」要唔要統一寫 orchestrator。
+7. **發佈時間** —— 跟返片入面講嘅原則：內容同出街時間都要由人批，文案冇代定。
+
+## 各平台規格對照
+
+| | LinkedIn | Facebook | Instagram |
+|---|---|---|---|
+| 首行截斷 | ~210 字元 | ~125 字元 | ~125 字元 |
+| Hashtag | 3-5 | 3-5 | 8-15 |
+| 連結策略 | 第一條留言（另備正文版） | 第一條留言（另備正文版） | link in bio / DM 派發 |
+| CTA 主軸 | 驅討論留言 | 驅留言 + 分享 + DM | 驅 save + share + DM |
+| 額外格式 | — | ManyChat 漏斗版 | Carousel 10 版大綱 + 4 版 Story |
