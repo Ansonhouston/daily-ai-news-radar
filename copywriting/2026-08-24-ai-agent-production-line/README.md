@@ -12,6 +12,7 @@
 | LinkedIn | [`linkedin.md`](./linkedin.md) | 中英雙語 · Hook 3 選 1 · 連結放留言版 + 正文版 |
 | Facebook | [`facebook.md`](./facebook.md) | 中英雙語 · Hook 3 選 1 · 連結放留言版 + 正文版 + ManyChat 漏斗版 |
 | Instagram | [`instagram.md`](./instagram.md) | 中英雙語 · Reel caption / Carousel caption + slide 大綱 / Story · ManyChat |
+| Facebook Group | [`facebook-group-short.md`](./facebook-group-short.md) | 中英雙語 · 朋友向精簡版（約 300 字）· 冇 hashtag / 冇 CTA 漏斗 |
 
 ## 產出方法
 
