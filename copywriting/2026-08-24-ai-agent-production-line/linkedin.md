@@ -242,3 +242,48 @@ Which step is your method missing — assign, hand off, inspect, or send back? C
 2. 1700 萬 views 嗰個對照數據刻意冇寫入貼文（怕被誤讀成自己嘅數）。如果 Anson 想加，建議寫成「其中一條外部對照片超過 1700 萬 views」。
 3. 中文版「總指揮 / orchestrator」要唔要統一用英文 orchestrator（LinkedIn 專業讀者較熟）。
 4. 第一條留言要喺出 post 後 1 分鐘內貼，先食到最佳 reach。
+
+---
+
+## ⚡ 短版（LinkedIn，Anson draft 收短）
+
+> 由 Anson 自己嗰版改：收短、順一順、加返「持續測試自己 style 同觀眾口味」呢個 point。
+> LinkedIn 頭約 210 字元先 cut「…see more」，所以頭三行已經自己講得完。
+
+### 🇭🇰 繁體中文版（copy 呢段）
+
+啱啱出咗條新片，講我今年點樣用一條 AI agent 生產線做短片。
+
+同一件事，2025 年做要好耐。今次快咗接近 20 倍，條 Reel 喺 Facebook 跑到 6 萬幾 views。
+
+以前我裝咗好多 AI 工具，工具 A 出咗嘢要自己搬去工具 B，中間甩漏又係自己執。表面上請咗一班 AI 員工，實際上全公司最忙嗰個係我自己。
+
+而家每一步都有返自己個位：派工 → 交接 → 驗收 → 唔過標準就退返重做。
+
+但講清楚：呢個數只證明套系統生產得出一條片，唔代表令佢爆。爆唔爆仲有演算法同時機 —— 仲要持續不斷咁測試，搵到適合自己嘅 style，同時對到觀眾口味。
+
+全片 9 分幾鐘，廣東話。連結喺留言 👇
+
+#AIAgent #ContentOps #AI工作流 #一人公司
+
+**第一條留言：** https://youtu.be/coMEPFqh-bA
+
+---
+
+### 🇬🇧 English version（copy this）
+
+Just posted a new video on how I run short-form video through an AI agent production line this year.
+
+Same work that took me ages in 2025. Roughly 20x faster now, and the Reel it produced hit 62K views on Facebook.
+
+I used to have a stack of AI tools. Tool A produced something, I carried it into tool B by hand, and every gap in between was mine to patch. On paper I had a team of AI workers. In practice I was the busiest person in my own company.
+
+Now every step sits where it belongs: assign → hand off → inspect → send back if it doesn't pass.
+
+To be clear though: that number only proves the system can produce a video, not that it made the video take off. Algorithm and timing do a lot of that — and you still have to keep testing until you find a style that's yours and still lands with your audience.
+
+Full video, ~9.5 min, in Cantonese. Link in the comments 👇
+
+#AIAgent #ContentOps #AIWorkflow #SoloBusiness
+
+**First comment:** https://youtu.be/coMEPFqh-bA
